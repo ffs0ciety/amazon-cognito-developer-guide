@@ -60,7 +60,6 @@ Required if `grant_type` is `authorization_code` and the authorization code was 
 ```
 POST https://mydomain.auth.us-east-1.amazoncognito.com/oauth2/token&
                        Content-Type='application/x-www-form-urlencoded'&
-                       Authorization=Basic aSdxd892iujendek328uedj
                        
                        grant_type=authorization_code&
                        client_id=djc98u3jiedmi283eu928&
